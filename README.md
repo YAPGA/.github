@@ -1,1 +1,1 @@
-# .github
+# Yet Another PhotoGallery App
